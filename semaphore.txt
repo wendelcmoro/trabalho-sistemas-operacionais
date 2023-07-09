@@ -1,0 +1,1307 @@
+p2 produziu 268
+                               c1 consumiu 268
+p2 produziu 991
+p2 produziu 762
+                               c1 consumiu 762
+                               c1 consumiu 0
+p2 produziu 842
+p2 produziu 707
+p2 produziu 87
+                               c1 consumiu 87
+p2 produziu 496
+p2 produziu 485
+p2 produziu 114
+                               c1 consumiu 114
+p2 produziu 863
+                               c1 consumiu 863
+p2 produziu 307
+                               c1 consumiu 307
+p2 produziu 972
+                               c1 consumiu 972
+p2 produziu 192
+                               c1 consumiu 192
+p2 produziu 814
+                               c1 consumiu 814
+                               c1 consumiu 863
+p2 produziu 765
+                               c1 consumiu 765
+p2 produziu 193
+                               c1 consumiu 193
+p2 produziu 263
+p2 produziu 110
+                               c1 consumiu 110
+                               c1 consumiu 814
+p2 produziu 629
+p2 produziu 806
+                               c1 consumiu 806
+p2 produziu 913
+                               c1 consumiu 913
+                               c1 consumiu 193
+p2 produziu 492
+                               c1 consumiu 492
+p2 produziu 403
+p2 produziu 76
+                               c1 consumiu 76
+                               c1 consumiu 806
+p2 produziu 342
+                               c1 consumiu 342
+p2 produziu 150
+                               c1 consumiu 150
+p2 produziu 762
+p2 produziu 736
+                               c1 consumiu 736
+                               c1 consumiu 76
+p2 produziu 266
+                               c1 consumiu 266
+p2 produziu 74
+p2 produziu 487
+                               c1 consumiu 487
+p2 produziu 638
+                               c1 consumiu 638
+p2 produziu 208
+                               c1 consumiu 208
+p2 produziu 912
+                               c1 consumiu 912
+p2 produziu 514
+                               c1 consumiu 514
+                               c1 consumiu 487
+p2 produziu 561
+                               c1 consumiu 561
+p2 produziu 222
+p2 produziu 268
+                               c1 consumiu 268
+                               c1 consumiu 912
+p2 produziu 413
+p2 produziu 15
+                               c1 consumiu 15
+p2 produziu 914
+                               c1 consumiu 914
+                               c1 consumiu 561
+p2 produziu 859
+                               c1 consumiu 859
+p2 produziu 786
+                               c1 consumiu 786
+p2 produziu 418
+p2 produziu 133
+                               c1 consumiu 133
+p2 produziu 168
+                               c1 consumiu 168
+                               c1 consumiu 561
+                               c1 consumiu 859
+p2 produziu 254
+p2 produziu 246
+p2 produziu 998
+                               c1 consumiu 998
+p2 produziu 243
+                               c1 consumiu 243
+p2 produziu 281
+                               c1 consumiu 281
+                               c1 consumiu 561
+p2 produziu 713
+                               c1 consumiu 713
+p2 produziu 119
+                               c1 consumiu 119
+p2 produziu 560
+p2 produziu 709
+                               c1 consumiu 709
+                               c1 consumiu 281
+p2 produziu 581
+p2 produziu 211
+                               c1 consumiu 211
+p2 produziu 465
+                               c1 consumiu 465
+p2 produziu 116
+                               c1 consumiu 116
+p2 produziu 899
+                               c1 consumiu 899
+p2 produziu 979
+                               c1 consumiu 979
+p2 produziu 998
+                               c1 consumiu 998
+                               c1 consumiu 465
+p2 produziu 516
+p2 produziu 980
+                               c1 consumiu 980
+                               c1 consumiu 899
+p2 produziu 750
+p2 produziu 959
+                               c1 consumiu 959
+p2 produziu 231
+                               c1 consumiu 231
+p2 produziu 200
+                               c1 consumiu 200
+p2 produziu 133
+                               c1 consumiu 133
+p2 produziu 77
+                               c1 consumiu 77
+p2 produziu 328
+                               c1 consumiu 328
+p2 produziu 519
+                               c1 consumiu 519
+p2 produziu 144
+                               c1 consumiu 144
+p2 produziu 888
+                               c1 consumiu 888
+p2 produziu 194
+                               c1 consumiu 194
+p2 produziu 631
+                               c1 consumiu 631
+p2 produziu 650
+                               c1 consumiu 650
+p2 produziu 606
+                               c1 consumiu 606
+                               c1 consumiu 888
+p2 produziu 241
+                               c1 consumiu 241
+p2 produziu 319
+p2 produziu 392
+                               c1 consumiu 392
+                               c1 consumiu 650
+p2 produziu 885
+                               c1 consumiu 885
+p2 produziu 31
+p2 produziu 224
+                               c1 consumiu 224
+p2 produziu 493
+                               c1 consumiu 493
+                               c1 consumiu 392
+p2 produziu 464
+p2 produziu 620
+                               c1 consumiu 620
+p2 produziu 150
+                               c1 consumiu 150
+p2 produziu 442
+                               c1 consumiu 442
+p2 produziu 896
+                               c1 consumiu 896
+p2 produziu 131
+                               c1 consumiu 131
+p2 produziu 125
+                               c1 consumiu 125
+p2 produziu 316
+                               c1 consumiu 316
+p2 produziu 582
+                               c1 consumiu 582
+                               c1 consumiu 896
+p2 produziu 520
+p2 produziu 223
+                               c1 consumiu 223
+p2 produziu 344
+                               c1 consumiu 344
+p2 produziu 372
+                               c1 consumiu 372
+                               c1 consumiu 582
+p2 produziu 404
+                               c1 consumiu 404
+p2 produziu 20
+p2 produziu 429
+                               c1 consumiu 429
+p2 produziu 774
+                               c1 consumiu 774
+p2 produziu 724
+                               c1 consumiu 724
+p2 produziu 706
+                               c1 consumiu 706
+p2 produziu 326
+                               c1 consumiu 326
+p2 produziu 498
+                               c1 consumiu 498
+                               c1 consumiu 774
+p2 produziu 804
+p2 produziu 885
+                               c1 consumiu 885
+                               c1 consumiu 706
+p2 produziu 967
+p2 produziu 980
+                               c1 consumiu 980
+p2 produziu 137
+                               c1 consumiu 137
+                               c1 consumiu 774
+p2 produziu 341
+p2 produziu 294
+                               c1 consumiu 294
+p2 produziu 858
+                               c1 consumiu 858
+                               c1 consumiu 980
+p2 produziu 256
+                               c1 consumiu 256
+p2 produziu 754
+p2 produziu 20
+                               c1 consumiu 20
+p2 produziu 134
+                               c1 consumiu 134
+p2 produziu 927
+                               c1 consumiu 927
+                               c1 consumiu 980
+p2 produziu 992
+p2 produziu 500
+                               c1 consumiu 500
+                               c1 consumiu 20
+p2 produziu 380
+                               c1 consumiu 380
+                               c1 consumiu 927
+                               c1 consumiu 980
+p2 produziu 786
+                               c1 consumiu 786
+p2 produziu 514
+                               c1 consumiu 514
+p2 produziu 42
+p2 produziu 150
+                               c1 consumiu 150
+p2 produziu 40
+p2 produziu 295
+                               c1 consumiu 295
+p2 produziu 941
+                               c1 consumiu 941
+p2 produziu 505
+p2 produziu 839
+                               c1 consumiu 839
+p2 produziu 202
+                               c1 consumiu 202
+p2 produziu 344
+                               c1 consumiu 344
+p2 produziu 552
+                               c1 consumiu 552
+p2 produziu 691
+                               c1 consumiu 691
+p2 produziu 87
+                               c1 consumiu 87
+p2 produziu 237
+                               c1 consumiu 237
+p2 produziu 996
+                               c1 consumiu 996
+p2 produziu 251
+                               c1 consumiu 251
+                               c1 consumiu 691
+p2 produziu 210
+                               c1 consumiu 210
+p2 produziu 50
+p2 produziu 39
+                               c1 consumiu 39
+p2 produziu 964
+                               c1 consumiu 964
+p2 produziu 285
+                               c1 consumiu 285
+                               c1 consumiu 691
+p2 produziu 279
+p2 produziu 575
+                               c1 consumiu 575
+p2 produziu 713
+                               c1 consumiu 713
+                               c1 consumiu 964
+p2 produziu 39
+                               c1 consumiu 39
+p2 produziu 9
+p2 produziu 584
+                               c1 consumiu 584
+                               c1 consumiu 575
+p2 produziu 457
+p2 produziu 116
+                               c1 consumiu 116
+p2 produziu 199
+                               c1 consumiu 199
+                               c1 consumiu 39
+p2 produziu 186
+p2 produziu 422
+                               c1 consumiu 422
+                               c1 consumiu 575
+p2 produziu 59
+                               c1 consumiu 59
+                               c1 consumiu 199
+p2 produziu 245
+p2 produziu 504
+p2 produziu 929
+                               c1 consumiu 929
+                               c1 consumiu 422
+p2 produziu 136
+                               c1 consumiu 136
+p2 produziu 483
+p2 produziu 628
+                               c1 consumiu 628
+p2 produziu 561
+                               c1 consumiu 561
+p2 produziu 93
+                               c1 consumiu 93
+                               c1 consumiu 422
+p2 produziu 366
+p2 produziu 48
+                               c1 consumiu 48
+                               c1 consumiu 628
+                               c1 consumiu 561
+p2 produziu 488
+p2 produziu 450
+p2 produziu 936
+                               c1 consumiu 936
+                               c1 consumiu 422
+p2 produziu 12
+p2 produziu 924
+                               c1 consumiu 924
+p2 produziu 77
+                               c1 consumiu 77
+p2 produziu 445
+                               c1 consumiu 445
+p2 produziu 713
+                               c1 consumiu 713
+                               c1 consumiu 422
+p2 produziu 50
+                               c1 consumiu 50
+p2 produziu 816
+p2 produziu 261
+                               c1 consumiu 261
+p2 produziu 468
+                               c1 consumiu 468
+p2 produziu 181
+                               c1 consumiu 181
+p2 produziu 726
+                               c1 consumiu 726
+                               c1 consumiu 50
+p2 produziu 970
+p2 produziu 11
+                               c1 consumiu 11
+p2 produziu 214
+                               c1 consumiu 214
+p2 produziu 216
+                               c1 consumiu 216
+p2 produziu 880
+                               c1 consumiu 880
+p2 produziu 911
+                               c1 consumiu 911
+p2 produziu 330
+                               c1 consumiu 330
+p2 produziu 367
+                               c1 consumiu 367
+                               c1 consumiu 216
+p2 produziu 146
+p2 produziu 159
+                               c1 consumiu 159
+                               c1 consumiu 911
+p2 produziu 438
+p2 produziu 629
+                               c1 consumiu 629
+p2 produziu 246
+                               c1 consumiu 246
+p2 produziu 170
+                               c1 consumiu 170
+p2 produziu 931
+                               c1 consumiu 931
+p2 produziu 462
+                               c1 consumiu 462
+                               c1 consumiu 629
+                               c1 consumiu 246
+                               c1 consumiu 170
+                               c1 consumiu 931
+p2 produziu 529
+p2 produziu 678
+p2 produziu 848
+                               c1 consumiu 848
+p2 produziu 441
+p2 produziu 457
+p2 produziu 763
+                               c1 consumiu 763
+p2 produziu 223
+                               c1 consumiu 223
+p2 produziu 613
+                               c1 consumiu 613
+                               c1 consumiu 931
+p2 produziu 591
+                               c1 consumiu 591
+p2 produziu 772
+p2 produziu 897
+                               c1 consumiu 897
+p2 produziu 916
+                               c1 consumiu 916
+p2 produziu 619
+                               c1 consumiu 619
+                               c1 consumiu 931
+p2 produziu 872
+p2 produziu 629
+                               c1 consumiu 629
+p2 produziu 229
+                               c1 consumiu 229
+p2 produziu 997
+                               c1 consumiu 997
+                               c1 consumiu 619
+p2 produziu 265
+                               c1 consumiu 265
+p2 produziu 633
+p2 produziu 417
+                               c1 consumiu 417
+p2 produziu 201
+                               c1 consumiu 201
+                               c1 consumiu 997
+p2 produziu 543
+p2 produziu 903
+                               c1 consumiu 903
+p2 produziu 201
+                               c1 consumiu 201
+                               c1 consumiu 417
+p2 produziu 419
+                               c1 consumiu 419
+p2 produziu 367
+                               c1 consumiu 367
+p2 produziu 366
+p2 produziu 632
+                               c1 consumiu 632
+                               c1 consumiu 201
+p2 produziu 700
+p2 produziu 452
+                               c1 consumiu 452
+                               c1 consumiu 419
+p2 produziu 39
+p2 produziu 432
+                               c1 consumiu 432
+                               c1 consumiu 632
+p2 produziu 809
+p2 produziu 762
+                               c1 consumiu 762
+p2 produziu 202
+                               c1 consumiu 202
+                               c1 consumiu 419
+p2 produziu 267
+                               c1 consumiu 267
+p2 produziu 305
+p2 produziu 738
+                               c1 consumiu 738
+                               c1 consumiu 762
+p2 produziu 263
+p2 produziu 144
+                               c1 consumiu 144
+                               c1 consumiu 419
+p2 produziu 226
+p2 produziu 982
+                               c1 consumiu 982
+                               c1 consumiu 738
+p2 produziu 138
+p2 produziu 137
+                               c1 consumiu 137
+p2 produziu 225
+                               c1 consumiu 225
+                               c1 consumiu 419
+p2 produziu 845
+p2 produziu 609
+                               c1 consumiu 609
+p2 produziu 570
+                               c1 consumiu 570
+p2 produziu 48
+                               c1 consumiu 48
+                               c1 consumiu 225
+p2 produziu 346
+p2 produziu 962
+                               c1 consumiu 962
+p2 produziu 738
+                               c1 consumiu 738
+p2 produziu 419
+                               c1 consumiu 419
+                               c1 consumiu 48
+p2 produziu 696
+p2 produziu 414
+                               c1 consumiu 414
+p2 produziu 407
+                               c1 consumiu 407
+p2 produziu 387
+                               c1 consumiu 387
+p2 produziu 392
+                               c1 consumiu 392
+p2 produziu 54
+                               c1 consumiu 54
+p2 produziu 697
+                               c1 consumiu 697
+                               c1 consumiu 407
+p2 produziu 669
+p2 produziu 799
+                               c1 consumiu 799
+                               c1 consumiu 392
+p2 produziu 546
+p2 produziu 586
+                               c1 consumiu 586
+p2 produziu 747
+                               c1 consumiu 747
+                               c1 consumiu 407
+p2 produziu 717
+p2 produziu 559
+                               c1 consumiu 559
+p2 produziu 509
+                               c1 consumiu 509
+p2 produziu 319
+                               c1 consumiu 319
+                               c1 consumiu 747
+p2 produziu 687
+p2 produziu 970
+                               c1 consumiu 970
+p2 produziu 505
+                               c1 consumiu 505
+                               c1 consumiu 509
+p2 produziu 747
+                               c1 consumiu 747
+p2 produziu 54
+                               c1 consumiu 54
+p2 produziu 801
+                               c1 consumiu 801
+p2 produziu 532
+p2 produziu 959
+                               c1 consumiu 959
+                               c1 consumiu 509
+p2 produziu 602
+p2 produziu 165
+                               c1 consumiu 165
+                               c1 consumiu 54
+p2 produziu 253
+                               c1 consumiu 253
+                               c1 consumiu 959
+p2 produziu 860
+                               c1 consumiu 860
+                               c1 consumiu 165
+p2 produziu 467
+                               c1 consumiu 467
+                               c1 consumiu 253
+p2 produziu 664
+p2 produziu 462
+                               c1 consumiu 462
+p2 produziu 140
+p2 produziu 698
+                               c1 consumiu 698
+p2 produziu 791
+p2 produziu 88
+                               c1 consumiu 88
+p2 produziu 253
+                               c1 consumiu 253
+p2 produziu 278
+                               c1 consumiu 278
+p2 produziu 867
+                               c1 consumiu 867
+p2 produziu 691
+p2 produziu 723
+                               c1 consumiu 723
+p2 produziu 35
+                               c1 consumiu 35
+p2 produziu 399
+                               c1 consumiu 399
+                               c1 consumiu 278
+p2 produziu 575
+p2 produziu 983
+                               c1 consumiu 983
+                               c1 consumiu 723
+p2 produziu 868
+                               c1 consumiu 868
+p2 produziu 63
+p2 produziu 642
+                               c1 consumiu 642
+p2 produziu 649
+                               c1 consumiu 649
+p2 produziu 600
+                               c1 consumiu 600
+p2 produziu 718
+                               c1 consumiu 718
+p2 produziu 49
+                               c1 consumiu 49
+p2 produziu 762
+                               c1 consumiu 762
+                               c1 consumiu 649
+p2 produziu 30
+p2 produziu 949
+                               c1 consumiu 949
+p2 produziu 376
+                               c1 consumiu 376
+p2 produziu 610
+                               c1 consumiu 610
+                               c1 consumiu 762
+p2 produziu 760
+                               c1 consumiu 760
+p2 produziu 411
+                               c1 consumiu 411
+p2 produziu 730
+p2 produziu 135
+                               c1 consumiu 135
+                               c1 consumiu 610
+p2 produziu 218
+                               c1 consumiu 218
+p2 produziu 699
+p2 produziu 6
+                               c1 consumiu 6
+                               c1 consumiu 411
+p2 produziu 194
+p2 produziu 372
+                               c1 consumiu 372
+p2 produziu 698
+                               c1 consumiu 698
+p2 produziu 807
+                               c1 consumiu 807
+                               c1 consumiu 6
+p2 produziu 737
+                               c1 consumiu 737
+p2 produziu 828
+                               c1 consumiu 828
+                               c1 consumiu 698
+                               c1 consumiu 807
+                               c1 consumiu 6
+p2 produziu 460
+p2 produziu 987
+                               c1 consumiu 987
+p2 produziu 601
+                               c1 consumiu 601
+p2 produziu 245
+                               c1 consumiu 245
+p2 produziu 903
+                               c1 consumiu 903
+p2 produziu 790
+p2 produziu 64
+p2 produziu 527
+                               c1 consumiu 527
+p2 produziu 849
+                               c1 consumiu 849
+                               c1 consumiu 601
+p2 produziu 785
+                               c1 consumiu 785
+p2 produziu 749
+p2 produziu 954
+                               c1 consumiu 954
+p2 produziu 942
+                               c1 consumiu 942
+p2 produziu 263
+p2 produziu 853
+                               c1 consumiu 853
+p2 produziu 726
+                               c1 consumiu 726
+p2 produziu 889
+                               c1 consumiu 889
+p2 produziu 672
+                               c1 consumiu 672
+                               c1 consumiu 942
+p2 produziu 845
+p2 produziu 848
+                               c1 consumiu 848
+p2 produziu 634
+                               c1 consumiu 634
+p2 produziu 104
+                               c1 consumiu 104
+                               c1 consumiu 672
+p2 produziu 708
+p2 produziu 534
+                               c1 consumiu 534
+p2 produziu 612
+                               c1 consumiu 612
+p2 produziu 901
+                               c1 consumiu 901
+                               c1 consumiu 104
+p2 produziu 794
+p2 produziu 522
+                               c1 consumiu 522
+p2 produziu 80
+                               c1 consumiu 80
+p2 produziu 207
+                               c1 consumiu 207
+p2 produziu 850
+                               c1 consumiu 850
+                               c1 consumiu 104
+p2 produziu 386
+p2 produziu 200
+                               c1 consumiu 200
+p2 produziu 15
+                               c1 consumiu 15
+p2 produziu 93
+                               c1 consumiu 93
+p2 produziu 398
+                               c1 consumiu 398
+p2 produziu 835
+                               c1 consumiu 835
+p2 produziu 914
+                               c1 consumiu 914
+p2 produziu 713
+                               c1 consumiu 713
+p2 produziu 77
+                               c1 consumiu 77
+p2 produziu 309
+                               c1 consumiu 309
+p2 produziu 779
+                               c1 consumiu 779
+p2 produziu 217
+                               c1 consumiu 217
+                               c1 consumiu 713
+p2 produziu 483
+p2 produziu 269
+                               c1 consumiu 269
+                               c1 consumiu 309
+p2 produziu 693
+p2 produziu 747
+                               c1 consumiu 747
+p2 produziu 374
+                               c1 consumiu 374
+p2 produziu 905
+                               c1 consumiu 905
+p2 produziu 517
+                               c1 consumiu 517
+p2 produziu 57
+                               c1 consumiu 57
+p2 produziu 597
+                               c1 consumiu 597
+                               c1 consumiu 374
+p2 produziu 138
+p2 produziu 152
+                               c1 consumiu 152
+p2 produziu 172
+                               c1 consumiu 172
+                               c1 consumiu 57
+p2 produziu 406
+p2 produziu 848
+                               c1 consumiu 848
+                               c1 consumiu 374
+p2 produziu 247
+p2 produziu 470
+                               c1 consumiu 470
+                               c1 consumiu 172
+p2 produziu 389
+                               c1 consumiu 389
+p2 produziu 165
+p2 produziu 178
+                               c1 consumiu 178
+p2 produziu 482
+                               c1 consumiu 482
+p2 produziu 254
+                               c1 consumiu 254
+                               c1 consumiu 172
+p2 produziu 331
+                               c1 consumiu 331
+p2 produziu 248
+p2 produziu 618
+                               c1 consumiu 618
+p2 produziu 550
+                               c1 consumiu 550
+p2 produziu 647
+                               c1 consumiu 647
+p2 produziu 341
+                               c1 consumiu 341
+p2 produziu 429
+                               c1 consumiu 429
+p2 produziu 221
+                               c1 consumiu 221
+p2 produziu 216
+                               c1 consumiu 216
+p2 produziu 349
+                               c1 consumiu 349
+                               c1 consumiu 341
+                               c1 consumiu 429
+p2 produziu 652
+p2 produziu 361
+p2 produziu 828
+                               c1 consumiu 828
+                               c1 consumiu 216
+p2 produziu 250
+                               c1 consumiu 250
+p2 produziu 616
+                               c1 consumiu 616
+p2 produziu 958
+p2 produziu 262
+                               c1 consumiu 262
+p2 produziu 654
+                               c1 consumiu 654
+                               c1 consumiu 216
+                               c1 consumiu 250
+p2 produziu 127
+p2 produziu 613
+p2 produziu 12
+                               c1 consumiu 12
+p2 produziu 384
+                               c1 consumiu 384
+p2 produziu 4
+                               c1 consumiu 4
+p2 produziu 159
+                               c1 consumiu 159
+p2 produziu 186
+                               c1 consumiu 186
+p2 produziu 557
+                               c1 consumiu 557
+                               c1 consumiu 384
+p2 produziu 205
+p2 produziu 230
+                               c1 consumiu 230
+                               c1 consumiu 159
+p2 produziu 107
+p2 produziu 417
+                               c1 consumiu 417
+                               c1 consumiu 557
+p2 produziu 248
+p2 produziu 333
+                               c1 consumiu 333
+                               c1 consumiu 230
+p2 produziu 75
+                               c1 consumiu 75
+p2 produziu 234
+p2 produziu 440
+                               c1 consumiu 440
+                               c1 consumiu 557
+p2 produziu 696
+p2 produziu 37
+                               c1 consumiu 37
+                               c1 consumiu 230
+p2 produziu 836
+p2 produziu 574
+                               c1 consumiu 574
+                               c1 consumiu 440
+p2 produziu 264
+p2 produziu 583
+                               c1 consumiu 583
+p2 produziu 727
+                               c1 consumiu 727
+p2 produziu 485
+                               c1 consumiu 485
+                               c1 consumiu 574
+p2 produziu 882
+p2 produziu 3
+                               c1 consumiu 3
+                               c1 consumiu 583
+p2 produziu 442
+p2 produziu 830
+                               c1 consumiu 830
+                               c1 consumiu 485
+p2 produziu 980
+p2 produziu 28
+                               c1 consumiu 28
+p2 produziu 960
+                               c1 consumiu 960
+p2 produziu 411
+                               c1 consumiu 411
+p2 produziu 110
+                               c1 consumiu 110
+p2 produziu 879
+                               c1 consumiu 879
+p2 produziu 724
+                               c1 consumiu 724
+p2 produziu 522
+                               c1 consumiu 522
+p2 produziu 460
+                               c1 consumiu 460
+p2 produziu 95
+                               c1 consumiu 95
+p2 produziu 336
+                               c1 consumiu 336
+p2 produziu 852
+                               c1 consumiu 852
+p2 produziu 497
+                               c1 consumiu 497
+                               c1 consumiu 460
+p2 produziu 86
+                               c1 consumiu 86
+p2 produziu 914
+p2 produziu 296
+                               c1 consumiu 296
+                               c1 consumiu 852
+p2 produziu 239
+                               c1 consumiu 239
+p2 produziu 481
+p2 produziu 785
+                               c1 consumiu 785
+p2 produziu 194
+                               c1 consumiu 194
+p2 produziu 800
+                               c1 consumiu 800
+p2 produziu 108
+                               c1 consumiu 108
+                               c1 consumiu 239
+p2 produziu 162
+p2 produziu 181
+                               c1 consumiu 181
+p2 produziu 880
+                               c1 consumiu 880
+p2 produziu 238
+                               c1 consumiu 238
+p2 produziu 736
+                               c1 consumiu 736
+                               c1 consumiu 239
+p2 produziu 503
+p2 produziu 505
+                               c1 consumiu 505
+p2 produziu 442
+                               c1 consumiu 442
+p2 produziu 987
+                               c1 consumiu 987
+                               c1 consumiu 736
+p2 produziu 830
+p2 produziu 163
+                               c1 consumiu 163
+p2 produziu 500
+                               c1 consumiu 500
+p2 produziu 643
+                               c1 consumiu 643
+p2 produziu 982
+                               c1 consumiu 982
+p2 produziu 555
+                               c1 consumiu 555
+p2 produziu 86
+                               c1 consumiu 86
+p2 produziu 99
+                               c1 consumiu 99
+p2 produziu 53
+                               c1 consumiu 53
+p2 produziu 763
+                               c1 consumiu 763
+p2 produziu 285
+                               c1 consumiu 285
+                               c1 consumiu 86
+p2 produziu 537
+p2 produziu 101
+                               c1 consumiu 101
+p2 produziu 20
+                               c1 consumiu 20
+p2 produziu 269
+                               c1 consumiu 269
+                               c1 consumiu 285
+p2 produziu 658
+p2 produziu 423
+                               c1 consumiu 423
+p2 produziu 204
+                               c1 consumiu 204
+                               c1 consumiu 20
+p2 produziu 897
+p2 produziu 422
+                               c1 consumiu 422
+                               c1 consumiu 285
+p2 produziu 665
+p2 produziu 558
+                               c1 consumiu 558
+p2 produziu 782
+                               c1 consumiu 782
+p2 produziu 430
+                               c1 consumiu 430
+p2 produziu 662
+                               c1 consumiu 662
+p2 produziu 436
+                               c1 consumiu 436
+p2 produziu 209
+                               c1 consumiu 209
+p2 produziu 44
+                               c1 consumiu 44
+p2 produziu 448
+                               c1 consumiu 448
+                               c1 consumiu 662
+p2 produziu 31
+                               c1 consumiu 31
+p2 produziu 606
+                               c1 consumiu 606
+p2 produziu 883
+                               c1 consumiu 883
+p2 produziu 666
+p2 produziu 270
+                               c1 consumiu 270
+p2 produziu 633
+                               c1 consumiu 633
+p2 produziu 100
+                               c1 consumiu 100
+p2 produziu 943
+                               c1 consumiu 943
+p2 produziu 251
+                               c1 consumiu 251
+p2 produziu 403
+                               c1 consumiu 403
+                               c1 consumiu 633
+p2 produziu 639
+p2 produziu 40
+                               c1 consumiu 40
+p2 produziu 573
+                               c1 consumiu 573
+p2 produziu 962
+                               c1 consumiu 962
+p2 produziu 591
+                               c1 consumiu 591
+p2 produziu 197
+                               c1 consumiu 197
+                               c1 consumiu 40
+p2 produziu 650
+                               c1 consumiu 650
+p2 produziu 313
+p2 produziu 707
+                               c1 consumiu 707
+                               c1 consumiu 591
+p2 produziu 687
+p2 produziu 738
+                               c1 consumiu 738
+p2 produziu 90
+                               c1 consumiu 90
+p2 produziu 766
+                               c1 consumiu 766
+p2 produziu 327
+                               c1 consumiu 327
+p2 produziu 554
+                               c1 consumiu 554
+p2 produziu 317
+                               c1 consumiu 317
+                               c1 consumiu 90
+p2 produziu 591
+p2 produziu 716
+                               c1 consumiu 716
+p2 produziu 437
+                               c1 consumiu 437
+                               c1 consumiu 554
+p2 produziu 48
+p2 produziu 991
+                               c1 consumiu 991
+                               c1 consumiu 90
+p2 produziu 595
+                               c1 consumiu 595
+p2 produziu 81
+p2 produziu 837
+                               c1 consumiu 837
+p2 produziu 206
+                               c1 consumiu 206
+                               c1 consumiu 991
+p2 produziu 0
+p2 produziu 607
+                               c1 consumiu 607
+p2 produziu 374
+                               c1 consumiu 374
+p2 produziu 892
+                               c1 consumiu 892
+p2 produziu 694
+                               c1 consumiu 694
+p2 produziu 902
+                               c1 consumiu 902
+                               c1 consumiu 607
+p2 produziu 205
+p2 produziu 97
+                               c1 consumiu 97
+                               c1 consumiu 892
+p2 produziu 879
+p2 produziu 49
+                               c1 consumiu 49
+p2 produziu 430
+                               c1 consumiu 430
+p2 produziu 632
+                               c1 consumiu 632
+p2 produziu 708
+                               c1 consumiu 708
+                               c1 consumiu 892
+p2 produziu 608
+p2 produziu 333
+                               c1 consumiu 333
+p2 produziu 727
+                               c1 consumiu 727
+p2 produziu 346
+                               c1 consumiu 346
+p2 produziu 561
+                               c1 consumiu 561
+                               c1 consumiu 892
+p2 produziu 565
+                               c1 consumiu 565
+p2 produziu 614
+                               c1 consumiu 614
+p2 produziu 763
+                               c1 consumiu 763
+p2 produziu 116
+                               c1 consumiu 116
+p2 produziu 543
+                               c1 consumiu 543
+p2 produziu 249
+p2 produziu 82
+                               c1 consumiu 82
+                               c1 consumiu 614
+p2 produziu 747
+p2 produziu 456
+                               c1 consumiu 456
+                               c1 consumiu 116
+p2 produziu 656
+p2 produziu 630
+                               c1 consumiu 630
+p2 produziu 836
+                               c1 consumiu 836
+                               c1 consumiu 614
+p2 produziu 470
+p2 produziu 872
+                               c1 consumiu 872
+p2 produziu 801
+                               c1 consumiu 801
+                               c1 consumiu 630
+p2 produziu 963
+p2 produziu 418
+                               c1 consumiu 418
+p2 produziu 693
+                               c1 consumiu 693
+                               c1 consumiu 872
+p2 produziu 755
+                               c1 consumiu 755
+p2 produziu 497
+p2 produziu 955
+                               c1 consumiu 955
+                               c1 consumiu 418
+                               c1 consumiu 693
+                               c1 consumiu 872
+                               c1 consumiu 755
+p2 produziu 250
+p2 produziu 980
+p2 produziu 970
+                               c1 consumiu 970
+p2 produziu 386
+p2 produziu 810
+p2 produziu 147
+                               c1 consumiu 147
+p2 produziu 143
+                               c1 consumiu 143
+p2 produziu 887
+                               c1 consumiu 887
+                               c1 consumiu 755
+p2 produziu 527
+                               c1 consumiu 527
+p2 produziu 483
+p2 produziu 831
+                               c1 consumiu 831
+                               c1 consumiu 143
+p2 produziu 322
+p2 produziu 520
+                               c1 consumiu 520
+                               c1 consumiu 755
+p2 produziu 467
+p2 produziu 316
+                               c1 consumiu 316
+                               c1 consumiu 831
+p2 produziu 504
+p2 produziu 938
+                               c1 consumiu 938
+p2 produziu 354
+                               c1 consumiu 354
+p2 produziu 526
+                               c1 consumiu 526
+                               c1 consumiu 316
+p2 produziu 364
+p2 produziu 431
+                               c1 consumiu 431
+p2 produziu 351
+                               c1 consumiu 351
+                               c1 consumiu 354
+p2 produziu 236
+p2 produziu 535
+                               c1 consumiu 535
+p2 produziu 194
+                               c1 consumiu 194
+                               c1 consumiu 431
+p2 produziu 305
+p2 produziu 82
+                               c1 consumiu 82
+p2 produziu 423
+                               c1 consumiu 423
+p2 produziu 302
+                               c1 consumiu 302
+                               c1 consumiu 194
+                               c1 consumiu 431
+p2 produziu 943
+p2 produziu 629
+                               c1 consumiu 629
+p2 produziu 699
+                               c1 consumiu 699
+p2 produziu 940
+p2 produziu 166
+                               c1 consumiu 166
+p2 produziu 996
+                               c1 consumiu 996
+p2 produziu 466
+                               c1 consumiu 466
+                               c1 consumiu 629
+p2 produziu 574
+p2 produziu 500
+                               c1 consumiu 500
+p2 produziu 377
+                               c1 consumiu 377
+p2 produziu 956
+                               c1 consumiu 956
+p2 produziu 620
+                               c1 consumiu 620
+p2 produziu 480
+                               c1 consumiu 480
+                               c1 consumiu 500
+p2 produziu 626
+                               c1 consumiu 626
+p2 produziu 793
+p2 produziu 3
+                               c1 consumiu 3
+p2 produziu 338
+                               c1 consumiu 338
+p2 produziu 979
+                               c1 consumiu 979
+                               c1 consumiu 500
+p2 produziu 355
+p2 produziu 510
+                               c1 consumiu 510
+p2 produziu 717
+                               c1 consumiu 717
+p2 produziu 684
+                               c1 consumiu 684
+p2 produziu 282
+                               c1 consumiu 282
+p2 produziu 298
+                               c1 consumiu 298
+p2 produziu 536
+                               c1 consumiu 536
+p2 produziu 690
+                               c1 consumiu 690
+p2 produziu 235
+                               c1 consumiu 235
+p2 produziu 272
+                               c1 consumiu 272
+p2 produziu 883
+                               c1 consumiu 883
+p2 produziu 212
+                               c1 consumiu 212
+                               c1 consumiu 690
+p2 produziu 602
+                               c1 consumiu 602
+p2 produziu 288
+p2 produziu 517
+                               c1 consumiu 517
+                               c1 consumiu 883
+p2 produziu 587
+p2 produziu 78
+                               c1 consumiu 78
+p2 produziu 606
+                               c1 consumiu 606
+p2 produziu 364
+                               c1 consumiu 364
+p2 produziu 379
+                               c1 consumiu 379
+                               c1 consumiu 883
+p2 produziu 362
+p2 produziu 914
+                               c1 consumiu 914
+p2 produziu 312
+                               c1 consumiu 312
+p2 produziu 120
+                               c1 consumiu 120
+                               c1 consumiu 379
+p2 produziu 44
+p2 produziu 745
+                               c1 consumiu 745
+p2 produziu 817
+                               c1 consumiu 817
+p2 produziu 919
+                               c1 consumiu 919
+p2 produziu 615
+                               c1 consumiu 615
+p2 produziu 401
+                               c1 consumiu 401
+                               c1 consumiu 745
+p2 produziu 225
+p2 produziu 613
+                               c1 consumiu 613
+                               c1 consumiu 919
+p2 produziu 171
+p2 produziu 573
+                               c1 consumiu 573
+                               c1 consumiu 401
+p2 produziu 688
+                               c1 consumiu 688
+p2 produziu 434
+                               c1 consumiu 434
+                               c1 consumiu 919
+p2 produziu 168
+p2 produziu 609
+                               c1 consumiu 609
+                               c1 consumiu 401
+p2 produziu 118
+p2 produziu 346
+p2 produziu 543
+                               c1 consumiu 543
+p2 produziu 416
+                               c1 consumiu 416
+p2 produziu 864
+                               c1 consumiu 864
+                               c1 consumiu 609
+p2 produziu 802
+p2 produziu 593
+                               c1 consumiu 593
+p2 produziu 906
